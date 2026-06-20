@@ -5,6 +5,7 @@ kind:
 metadata:
   name:
     crawler-service
+  namespace: crawler
 spec:
   selector:
     app:
